@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm U Chanakya S aka, The-UCS-Variable
+- 🔭 I’m currently working on ...
+  - The-BOcT
+
 <!--
 **The-UCS-Variable/The-UCS-Variable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
