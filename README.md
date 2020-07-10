@@ -1,10 +1,14 @@
 ## Hoi there 👋
 ### I'm The-UCS-Variable, Something like a beginner in Web Development
 #### I create things that I want to Use
-🔭 I’m currently working on ...
-  - [The-BOcT](https://the-boct.github.io/)
+🧶 I’m currently working on
+  - [The-BOcT](https://the-boct.github.io/) : A Static-Browser Chatbot
 
-
+📫 How to reach me
+  - Gmail: uchanakyasrinivas@gmail.com
+  - LinkedIn: [Chanakya Srinivas](https://www.linkedin.com/in/chanakya-srinivas/)
+  - Instagram: [the_insta_of_chanakya](https://www.instagram.com/the_insta_of_chanakya/) 
+  - Facebook: [U Chanakya S](https://www.facebook.com/chanakyaltd/)
 
 
 
