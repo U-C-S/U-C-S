@@ -6,4 +6,4 @@ I'm currently learning JavaScript and making some Gamey Projects like [BOcT](htt
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=u-c-s&theme=radical&hide=prs" alt="u-c-s" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-C-S&layout=compact)]
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-C-S&layout=compact"></p>
