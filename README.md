@@ -5,7 +5,7 @@
 - Student at the National Institute of Engineering, Mysore
 - Speaks English and Telugu
 - 🎮PC , 🚴Cycling , 🏞Geography
-- Atleast I can write some *HTML , CSS , JavaScript*
+- Atleast I can write some good *HTML , CSS , JavaScript*
 - Currently thinking to learn *C# , TypeScript*
 
 
