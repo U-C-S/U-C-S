@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hoi there 👋</h1>
 <h2 align="center">I'm *Chanakya* 👦🏻</h2>
 
-### About...
+### About....
 - Student at the National Institute of Engineering, Mysore
 - Speaks English and Telugu
 - 🎮PC , 🚴Cycling , 🏞Geography
