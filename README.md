@@ -6,7 +6,8 @@
 - Speaks English and Telugu (Native)
 - 🎮PC , 🚴Cycling , 🏞Geography
 - Atleast I can write some good *HTML , CSS , JavaScript*
-- Currently thinking to learn *C# , TypeScript*
+- Learning: C# (Check out, I made [this](https://github.com/U-C-S/Basic-Calculator) in the process)
+- thinking to learn *TypeScript, C++, RUST* in the Upcoming Months
 
 
 I create things that I want to Use
