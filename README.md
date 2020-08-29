@@ -2,6 +2,7 @@
 <h2 align="center">I'm *Chanakya* 👦🏻</h2>
 
 ### About....
+- Lives in Southern part of India
 - Student at the National Institute of Engineering, Mysore
 - Speaks English and Telugu (Native)
 - 🎮PC , 🚴Cycling , 🏞Geography
