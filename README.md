@@ -6,8 +6,8 @@
 - Student at the National Institute of Engineering, Mysore
 - 🎮PC , 🚴Cycling , 🏞Geography
 - Atleast I can write some good *HTML , CSS , JavaScript*
-- Learning: C# (Check out, I made [this](https://github.com/U-C-S/Basic-Calculator) in the process)
-- thinking to learn *TypeScript, C++, RUST* in the Upcoming Months
+- Learning: C# and TypeScript
+- thinking to learn *C++, RUST* in the Upcoming Months
 
 
 I create things that I want to Use
