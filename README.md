@@ -6,7 +6,7 @@
 - Student at the National Institute of Engineering, Mysore
 - 🎮PC , 🚴Cycling , 🏞Geography
 - Atleast I can write some good *HTML , CSS , JavaScript*
-- Learning: C# and TypeScript
+- Learning: *C# and TypeScript*
 - thinking to learn *C++, RUST* in the Upcoming Months
 
 
