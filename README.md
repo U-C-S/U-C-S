@@ -1,13 +1,18 @@
 <h1 align="center">👋 Hoi there 👋</h1>
-<h2 align="center">I'm *Chanakya* 👦🏻</h2>
+<h2 align="center">I'm -Chanakya- 👦🏻</h2>
 
 ### About....
-- Lives in Southern part of India and Speaks English and Telugu (Native)
-- Student at the National Institute of Engineering, Mysore
 - 🎮PC , 🚴Cycling , 🏞Geography
+- From [Guntur](https://en.wikipedia.org/wiki/Guntur) region and can speak [Telugu](https://en.wikipedia.org/wiki/Telugu_language) and English.
+- Student at the National Institute of Engineering, Mysore.
 - Atleast I can write some good *HTML , CSS , JavaScript*
 - Learning: *C# and TypeScript*
 - thinking to learn *C++, RUST* in the Upcoming Months
 
-
-I create things that I want to Use
+<!--
+<code><pre>
+{
+   "Name": "Chanakya",
+   "From": "Guntur, India"
+}
+</pre></code>
