@@ -7,7 +7,7 @@
 - Student at the National Institute of Engineering, Mysore.
 - Atleast I can write some good *HTML , CSS , JavaScript*
 - Learning: *C# and TypeScript*
-- thinking to learn *C++, RUST* in the Upcoming Months
+- thinking to learn *RUST* in the Upcoming Months
 
 <!--
 <code><pre>
