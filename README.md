@@ -1,8 +1,8 @@
 ### About....
 - Student at the National Institute of Engineering, Mysore.
-- Atleast I can write some good *HTML , CSS , JavaScript*
+- Strengths: *HTML , CSS , JavaScript*
 - Learning: *C# and TypeScript*
-- Thinking to learn *RUST* in the Upcoming Months
+- Learn@next: *Rust*
 - Coding as a Hobby and Looking to Collaborate
 
 <!--
