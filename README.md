@@ -1,10 +1,10 @@
-### About....
+### Quick About....
+<pre>
 - Student at the National Institute of Engineering, Mysore.
-- Strengths: *HTML , CSS , JavaScript*
-- Learning: *C# and TypeScript*
+- Learning: *C# (dotNET), TypeScript*
 - Learn@next: *Rust*
-- Coding as a Hobby and Looking to Collaborate
-
+- Coding as a Hobby and Looking to Collaborate on Dumb projects.
+</pre>
 <!--
 - From [Guntur](https://en.wikipedia.org/wiki/Guntur) region and can speak [Telugu](https://en.wikipedia.org/wiki/Telugu_language) and English.
 
