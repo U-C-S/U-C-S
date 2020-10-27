@@ -2,7 +2,7 @@
 <pre>
 - Student at the National Institute of Engineering, Mysore
 - Learning: <i>C# (dotNET), TypeScript</i>
-- Learn@next: <i>Rust</i>
+- Learn@next: <i>Rust, WebAssembly</i>
 - Coding as a Hobby and Open to Collaborate on <b>idiot</b> projects
 </pre>
 
