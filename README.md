@@ -1,7 +1,7 @@
 <b>me-self, Aye!</b>
 <pre>
 - Student at the National Institute of Engineering, Mysore
-- Self-Learning: <i>C# (dotNET) & TypeScript</i> from Documentation
+- Self-Learning: <i>C# (dotNET), NodeJS & TypeScript</i> from Documentation
 - Learn@next: <i>Rust, WebAssembly</i>
 </pre>
 <pre>
