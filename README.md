@@ -8,6 +8,7 @@
 - Coding as a Hobby and Open to Collaborate on projects
 - Likes to Explore Everything
 - Visits Settings first, when launching a new App, game or software
+- Redditor
 </Pre>
 
 <!--
