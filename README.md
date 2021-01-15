@@ -1,7 +1,7 @@
-<b>me-self, Aye!</b>
+<code>self.stats()</code>
 <pre>
 - Student at the National Institute of Engineering, Mysore
-- Self-Learning: <i>C# (dotNET), NodeJS & TypeScript</i> from Documentation
+- Self-Learning: <i>C# (.NET 5), NodeJS, TypeScript</i> from Documentation
 - Learn@next: <i>Rust, WebAssembly</i>
 </pre>
 <pre>
@@ -12,7 +12,7 @@
 
 <!--
 <details>
-  <summary>Godzilla: The Revolution of Dogs</summary>
-  <p>Then the dog quickly and say effectively bites the Massive Godzilla's Leg. It's enough to bring the Godzilla's Attention on the dog. For the massive size, It slowly pulls up leg from the ground and Just as effectively stomps on the dog.</p>
+  <summary>Godzilla: The Revolution of Dogs🤣🤣🤣🤣.... Oh hello fella</summary>
+  <p>Then the dog quickly and effectively bites the Massive Godzilla's Leg. It's enough to bring the Godzilla's Attention on the dog. For the massive size, It slowly pulls up leg from the ground and Just as effectively stomps on the dog.</p>
 </details>
 -->
