@@ -7,6 +7,7 @@
 <pre>
 - Coding as a Hobby and Open to Collaborate on projects
 - Visits Settings first, when launching a new App, game or software
+- Prefers learning from Documentation and Reference over other formats
 - Redditor
 </Pre>
 
