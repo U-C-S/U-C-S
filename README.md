@@ -1,8 +1,8 @@
-<code>self.stats()</code>
+<code>this.user.stats()</code>
 <pre>
 - Student at the National Institute of Engineering, Mysore
 - Self-Learning: <i>Node.js, TypeScript, React.js</i> from Documentation
-- Learn@next: <i>C# (.NET 5), Rust, WebAssembly</i>
+- Learn@next: <i>C# (.NET 5), Rust, WebAssembly, Express.js</i>
 </pre>
 <pre>
 - Coding as a Hobby and Open to Collaborate on projects
