@@ -2,8 +2,8 @@
 <pre>
 -> Undergraduate Student at the National Institute of Engineering, Mysore (3rd Semester)
 -> Quite Experienced with: 
-      - TypeScript, JavaScript, React.js, Node.js, PWAs, HTML, CSS
-      - C#, WPF, Visual Studio
+      - <strong>TypeScript, JavaScript, React.js, Node.js, PWAs, HTML, CSS</strong>
+      - <strong>C#, WPF, Visual Studio</strong>
 -> Currently Learning: <i>C# (.NET 5)</i> from Documentation
 -> In Future: <i>Rust, WebAssembly, Express.js</i>
 </pre>
