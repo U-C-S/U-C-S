@@ -5,7 +5,7 @@
       - <strong>TypeScript, JavaScript, React.js, Node.js, PWAs, HTML, CSS</strong>
       - <strong>C#, WPF, Visual Studio</strong>
 -> Currently Learning: <i>C# (.NET 5)</i> from Documentation
--> In Future: <i>Rust, WebAssembly, Express.js</i>
+-> Future Considerations: <i>Rust, WebAssembly, Express.js</i>
 </pre>
 
 <pre align=right>
