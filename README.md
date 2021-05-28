@@ -1,13 +1,11 @@
-<code><a href="https://thirsty-metal.netlify.app/">this.user.info()</a></code>
-<pre>
--> Student at The National Institute of Engineering, Mysore (4th Semester)
--> Prefers learning from Documentation over other formats
--> TypeScript is current fav
--> Active in - GitHub , Reddit , Wikipedia
+<p align="center">
+  <code>
+    <a href="https://thirsty-metal.netlify.app/">this.user.info()</a>
+  </code>
+</p>
+
+<pre align="center">
+- Student at The National Institute of Engineering, Mysore -
+- I exclusively learn coding from Documentation -
+- Currently, Learning Rust from <a href="https://doc.rust-lang.org/stable/book/">The Book</a> -
 </Pre>
-
-
-<!--
-  - <strong>TypeScript, javaScript, React.js, Gatsby.js, Node.js, PWAs, HTML, CSS</strong>
-  - <strong>C#, WPF, Visual Studio</strong>
--->
