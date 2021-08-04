@@ -6,6 +6,6 @@
 
 <pre align="center">
 - Student at The National Institute of Engineering, Mysore -
-- I exclusively learn coding and related stuff from Documentations -
-- Currently, Messing with Backend we<b>b_d</b>evelopment -
+- I exclusively learn programming stuff from Documentation -
+- Rust, TypeScript, C#, Node.js, .NET -
 </Pre>
