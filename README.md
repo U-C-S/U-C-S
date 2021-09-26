@@ -1,6 +1,6 @@
 <p align="center">
   <code>
-    <a href="https://thirsty-metal.netlify.app/">this.user.info()</a>
+    <a href="https://chanakya3721.netlify.app/">this.user.website()</a>
   </code>
 </p>
 
@@ -8,4 +8,4 @@
 - Student at The National Institute of Engineering, Mysore -
 - I exclusively learn programming stuff from Documentation -
 - Rust, TypeScript, C#, Node.js, .NET -
-</Pre>
+</pre>
