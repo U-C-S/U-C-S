@@ -1,11 +1,8 @@
-<p align="center">
-  <code>
-    <a href="https://chanakya3721.netlify.app/">this.user.website()</a>
-  </code>
-</p>
+<h2 align="center">I'm <a href="https://chanakya3721.netlify.app/" title="This is my website link. Click!">Chanakya</a>
+</h2>
 
-<pre align="center">
-- Student at The National Institute of Engineering, Mysore -
-- I exclusively learn programming stuff from Documentation -
-- Rust, TypeScript, C#, Node.js, .NET -
-</pre>
+<p align="center">
+ - Student at The National Institute of Engineering, Mysore -<br>
+ - I exclusively learn programming stuff from Documentation -<br>
+ - Rust, TypeScript, C#, Node.js, .NET -<br>
+</p>
