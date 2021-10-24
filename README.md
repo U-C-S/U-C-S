@@ -4,5 +4,6 @@
 <p align="center">
  - Student at The National Institute of Engineering, Mysore -<br>
  - I exclusively learn programming stuff from Documentation -<br>
+ - Prioritising Code Quality over just finishing the project -<br>
  - Rust, TypeScript, C#, Node.js, .NET -<br>
 </p>
