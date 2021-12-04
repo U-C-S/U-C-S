@@ -1,9 +1,8 @@
-<h2 align="center">
- I'm <a href="https://chanakya3721.netlify.app/" title="This is my website link. Click!">Chanakya</a>
-</h2>
+<h3 align="center">
+ It's <a href="https://chanakya-is-awesome.me" title="This is my website link. Click!">Chanakya</a>
+</h3>
 
 <p align="center">
- - Learnt programming and stuff from Documentations and Books -<br>
- - Prioritising Code Quality over finishing the project -<br>
- - Rust, TypeScript, C#, Node.js, .NET -<br>
+ - Learnt programming and stuff from Documentations -<br/>
+ - <b>Rust, TypeScript, C#, Node.js, .NET</b> -<br/>
 </p>
