@@ -7,6 +7,7 @@
  - <b>Rust, TypeScript, C#, Node.js, .NET</b> -<br/>
 </p>
 
+<!--
 <details>
 	<summary>Read more....</summary>
 	<p>
@@ -16,3 +17,4 @@
 		Took a break in Nov-Dec 2020. Actually, because I don't have any ideas to continue working on projects. In the wake of new year, I started with React.js and a proper welcome to NodeJS. React influenced the first half of the year. I ported, learnt various frameworks under it and dug deep into front-end web finding SSGs, CSS tools, Bundlers.... etc. The second half of the year is the real deal of my programming journey. I learnt Rust at the end of May, soon Java, SQL...., Design Patterns, Writing tools or Writing real tools for real world. The pace of learning increased and so do the amount of stuff I want to learn. All I can do is to keep the curiosity at limit -----Dec-2021.
 	</p>
 </details>
+-->
