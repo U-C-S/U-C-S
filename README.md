@@ -1,12 +1,12 @@
 <h3 align="center">
-	It's <a href="https://chanakya-is-awesome.me" title="This is my website link. Click!">Chanakya</a>
+	Hello there, I'm <a href="https://chanakya-is-awesome.me" title="This is my website link. Click!">Chanakya</a>
 </h3>
 
 <p align="center">
- - Learnt programming and stuff from Documentations -<br/>
- - <b>Rust, TypeScript, C#, Node.js, .NET</b> -<br/>
+	<a href="https://chanakya-is-awesome.me">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=8&border_radius=10&layout=compact&theme=ayu-mirage" />
+	</a>
 </p>
-
 <!--
 <details>
 	<summary>Read more....</summary>
