@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://chanakya-is-awesome.me">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=8&border_radius=10&layout=compact&theme=ayu-mirage" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html" />
 	</a>
 </p>
 <!--
