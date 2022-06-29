@@ -1,10 +1,16 @@
-<h3 align="center">
+<h2 align="center">
 	Hello there, I'm <a href="https://chanakya-is-awesome.me" title="This is my website link. Click!">Chanakya</a>
-</h3>
+</h2>
+<p align="center">
+Unpredictable!!, when magic happens in the code. So, I stay sane by learning from only docs.
+</p>
+<p align="center">
+Most Projects here are done on stuff that I want to use. Won't mind extra hands and other stuff.
+</p>
 
 <p align="center">
 	<a href="https://chanakya-is-awesome.me">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
 	</a>
 </p>
 <!--
