@@ -1,8 +1,7 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
 
 ## Hello there, I'm [Chanakya](https://chanakya3721.netlify.app)
-
-Currently in final year for Graduation. I like to read and learn from docs. 
+B.E. in Information Science, Final Year Student. I like to read wikipedia, look at maps and code.
 
 Open for collabs and Actively looking for work.
 
