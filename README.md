@@ -1,4 +1,4 @@
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
 
 ## Hello there, I'm [Chanakya](https://chanakya3721.netlify.app)
 B.E. in Information Science, Final Year Student. I like to read wikipedia, look at maps and code.
