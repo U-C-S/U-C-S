@@ -1,10 +1,9 @@
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
 
 ## Hello there, I'm [Chanakya](https://chanakya3721.netlify.app)
-B.E. in Information Science, Final Year Student. I like to read wikipedia, look at maps and code.
+Graduated with B.E. in Information Science. Open for collabs and Actively looking for work.
 
-Open for collabs and Actively looking for work.
-
+I like to learn more about computers, code, read wikipedia, look at maps, game and maybe travel.
 
 <!--
 <details>
