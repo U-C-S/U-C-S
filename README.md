@@ -1,9 +1,8 @@
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-c-s&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
 
 ## Hello there, I'm [Chanakya](https://chanakya3721.netlify.app)
-Graduated with B.E. in Information Science. Actively looking for work.
 
-I like to learn more about computers, code, read wikipedia, look at maps, game and castles in the air.
+I like to learn more about GPUs, compilers while creating stuff that I use. Beyond that I like to read wikipedia, look at maps, game, castles in the air, walk around and am a cinephile.
 
 <!--
 <details>
