@@ -2,4 +2,4 @@
 
 ## Hello there, I'm [Chanakya](https://chanakya3721.netlify.app)
 
-Currently, working as a Backend Engineer, writing stuff in Clojure 🤗. Additionally, Am curious and learning more about GPU programming at my free time.
+Working full time as a Backend Engineer, writing stuff in Clojure 🤗. Learning more about GPU programming at my free time.
